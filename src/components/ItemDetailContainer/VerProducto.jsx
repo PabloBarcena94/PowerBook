@@ -1,0 +1,32 @@
+export const verProductos = [
+    
+    {   id: 1, 
+        titulo: 'Game of Thrones' , 
+        author: 'George R.R Martin',
+        resumen:'George R. R. Martin narra la fascinante historia de losTargaryen, la dinastía que reinó en Poniente trescientos años antes del inicio de «Canción de hielo y fuego», la saga que inspiró la serie de HBO:Juego de tronos.', 
+        precio: '$3000', 
+        pictureUrl: "https://imagessl3.casadellibro.com/a/l/t5/93/9788466356893.jpg",
+    },
+    {   id: 2, 
+        titulo: 'Harry Potter y la piedra filosofal', 
+        author: 'J.K Rowling', 
+        resumen: 'Harry Potter y la piedra filosofal es el primer volumen de la ya clásica serie de novelas fantásticas de la autora británica J.K. Rowling.', 
+        precio: '$2700', 
+        pictureUrl: "https://imagessl8.casadellibro.com/a/l/t5/18/9788498386318.jpg",
+    },
+    {   id: 3, 
+        titulo: 'El camino de los Reyes', 
+        author: 'Brandon Sanderson', 
+        resumen: 'El camino de los reyes es el primer volumen de «El Archivo de las Tormentas», el resultado de más de una década de construcción y escritura de universos, convertido en una obra maestra de la fantasía contemporánea en diez volúmenes. Con ella, Brandon Sanderson se postula como el autor del género que más lectores está ganando en todo el mundo.', 
+        precio: '$2600', 
+        pictureUrl: "https://imagessl1.casadellibro.com/a/l/t5/41/9788413143941.jpg",
+    },
+    {   id: 4, 
+        titulo: 'Galant', 
+        author: 'V.E. SCHWAB', 
+        resumen: 'TODO PROYECTA UNA SOMBRA. INCLUSO EL MUNDO EN EL QUE VIVIMOS. Y COMO OCURRE CON TODA SOMBRA, HAY UN LUGAR DONDE ESTA SE UNE CON LO QUE LA GENERA.', 
+        precio: '$2400', 
+        pictureUrl: "https://imagessl4.casadellibro.com/a/l/t5/64/9788416517664.jpg",
+    }
+    
+]
